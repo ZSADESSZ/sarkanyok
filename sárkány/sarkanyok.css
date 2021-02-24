@@ -1,0 +1,20 @@
+.keret {
+    width: 80%;
+    margin: 0 auto;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+body{
+    background-image: url(hatterkep.jpg);
+}
+
+a:hover {
+    color: red;
+}
+
+.jobbrakep {
+    float: right;
+}
