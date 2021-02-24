@@ -4,6 +4,7 @@ a {
     text-decoration: none;
 }
 body{
+    font-family: Arial, sans-serif;
     background-image: url(hatterkep.jpg);
 }
 .keret {
